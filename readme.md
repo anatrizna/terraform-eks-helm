@@ -1,9 +1,5 @@
-## Disclamers
-(1) SonarQube doesn't support MySQL since v7.9. Sonarqube Helm chart used in this project deploy sonarqube-9.5.1, thus postgres database used instead. But the logic itself is the same. Just wanted to avoid spending time on finding Sonarqube old version charts.
-
-(2) K8s is provisioned in AWS cloud. Hope you don't mind.
-
-(3) This project is extremely sceleton solution. Just enought for min requirements. There is an enormous amount of possible improvements before it serves for any real-world use-case.
+## Disclamer
+This project is extremely sceleton solution. Just enought for min requirements. There is an enormous amount of possible improvements before it serves for any real-world use-case.
 
 ## General description
 
